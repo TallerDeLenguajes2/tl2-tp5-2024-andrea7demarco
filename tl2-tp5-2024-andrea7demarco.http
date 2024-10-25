@@ -1,0 +1,6 @@
+@tl2_tp5_2024_andrea7demarco_HostAddress = http://localhost:5275
+
+GET {{tl2_tp5_2024_andrea7demarco_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
